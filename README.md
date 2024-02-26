@@ -4,3 +4,6 @@ Clusters formed will have a centroid and the centroid is the mean of the cluster
 
 Once this stage is achieved, we say that the convergence is successful and Kmeans is completed. Labels are then assigned to the datapoints based on the clusters to which they belong which can actually help in selective targeting and informed decision making for businesses. 
 
+
+I have also built the model on Hierarchial/Agglomerative Clustering for the same mall dataset and using the scatterplot am able to visualize those clusters getting a clear cut idea about what has been performed.
+
